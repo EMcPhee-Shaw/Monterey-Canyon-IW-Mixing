@@ -1,0 +1,30 @@
+Monterey Canyon Internal Wave Mixing Experiment
+Funded by National Science Foundation, OCE -0728341
+PIs. Girton, McPhee-Shaw, Kunze
+
+Directory contains CTD data from stations along Canyon Thalweg
+Column Headers included in Structure as well as below:
+
+ColumnHeaders =
+
+% # name 0 = timeJ: Julian Days                                         
+% # name 1 = latitude: Latitude [deg]                                   
+% # name 2 = longitude: Longitude [deg]                                 
+% # name 3 = prDM: Pressure, Digiquartz [db]                            
+% # name 4 = depSM: Depth [salt water, m]                               
+% # name 5 = c0S/m: Conductivity [S/m]                                  
+% # name 6 = c1S/m: Conductivity, 2 [S/m]                               
+% # name 7 = t090C: Temperature [ITS-90, deg C]                         
+% # name 8 = t190C: Temperature, 2 [ITS-90, deg C]                      
+% # name 9 = flECO-AFL: Fluorescence, Wetlab ECO-AFL/FL [mg/m^3]        
+% # name 10 = sbeox0Mg/L: Oxygen, SBE 43 [mg/l]                         
+% # name 11 = sal00: Salinity [PSU]                                     
+% # name 12 = sal11: Salinity, 2 [PSU]                                  
+% # name 13 = potemp090C: Potential Temperature [ITS-90, deg C]         
+% # name 14 = potemp190C: Potential Temperature, 2 [ITS-90, deg C]      
+% # name 15 = sigma-È00: Density [sigma-theta, Kg/m^3]                  
+% # name 16 = sigma-È11: Density, 2 [sigma-theta, Kg/m^3]               
+% # name 17 = xmiss: Beam Transmission, Chelsea/Seatech/Wetlab CStar [%]
+% # name 18 = bat: Beam Attenuation, Chelsea/Seatech/Wetlab CStar [1/m] 
+% # name 19 = bat: Beam Attenuation, Chelsea/Seatech/Wetlab CStar [1/m] 
+% # name 20 = flag:  0.000e+00                                          
